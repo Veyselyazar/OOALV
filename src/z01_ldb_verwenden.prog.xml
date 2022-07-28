@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROGDIR>
+    <NAME>Z01_LDB_VERWENDEN</NAME>
+    <DBAPL>S</DBAPL>
+    <DBNA>F1</DBNA>
+    <SUBC>1</SUBC>
+    <APPL>S</APPL>
+    <RSTAT>T</RSTAT>
+    <RLOAD>D</RLOAD>
+    <FIXPT>X</FIXPT>
+    <LDBNAME>F1S</LDBNAME>
+    <UCCHECK>X</UCCHECK>
+   </PROGDIR>
+   <TPOOL>
+    <item>
+     <ID>I</ID>
+     <KEY>OCC</KEY>
+     <ENTRY>Range belegte Plätze</ENTRY>
+     <LENGTH>40</LENGTH>
+    </item>
+    <item>
+     <ID>R</ID>
+     <ENTRY>Report Z01_LDB_VERWENDEN</ENTRY>
+     <LENGTH>24</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>SO_OCC</KEY>
+     <ENTRY>.</ENTRY>
+     <LENGTH>9</LENGTH>
+     <SPLIT>D</SPLIT>
+    </item>
+   </TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>

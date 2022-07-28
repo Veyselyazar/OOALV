@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TRAN" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TSTC>
+    <TCODE>Z01SCARR</TCODE>
+    <PGMNA>SAPMZSCARR_ERFASSEN</PGMNA>
+    <DYPNO>0100</DYPNO>
+   </TSTC>
+   <TSTCC>
+    <TCODE>Z01SCARR</TCODE>
+    <S_WIN32>X</S_WIN32>
+   </TSTCC>
+   <TSTCT>
+    <SPRSL>D</SPRSL>
+    <TCODE>Z01SCARR</TCODE>
+    <TTEXT>Datensätze in scarr erfassen</TTEXT>
+   </TSTCT>
+  </asx:values>
+ </asx:abap>
+</abapGit>
